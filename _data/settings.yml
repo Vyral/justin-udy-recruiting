@@ -1,10 +1,10 @@
 audit_header: false
 title: "Salt Lake City's Best Real Estate Training"
 description: Justin Udy, a top Real Estate Agent in Salt Lake City, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Meet Our Team
+    url: http://www.justinudy.com/team/
 
 client:
   name: Justin Udy
