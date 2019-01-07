@@ -75,7 +75,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 20
-  hero_text: Salt Lake City Real Estate Video Blog
+  hero_text: Utah Real Estate Trainings
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -90,7 +90,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(250, 250, 250, .75)
+  shadow_color: rgb(238, 238, 238)
 
 buttons:
   button_radius_number: 0

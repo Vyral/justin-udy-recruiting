@@ -1,30 +1,39 @@
 .hero-img
 	background-position: center
 	background-size: cover
-	height: 400px
+	padding-top: $nav-height + 5rem
 #hero
 	background-position: center
 	background-size: cover
 	background-attachment: fixed
 	background-repeat: no-repeat
 	text-align: center
-	padding-top: $nav-height + 2.5rem
 
 .site-logo
 	width: 90%
 	max-width: $logo-width
 	@include filter(drop-shadow($header-shadow))
-
-.site-title
+.site-mission
 	color: $brand
 	text-align: center
 	font-weight: 400
 	padding-bottom: 2rem
 	margin-bottom: 0
 
+.site-title
+	color: #000000
+	text-shadow: $header-shadow
+	text-transform: uppercase
+	font-size: 5rem
+	font-weight: normal
+	padding-bottom: 4rem
+	padding-top: 1rem
+	margin-bottom: 0
 
 @media (max-width: 1100px)
 	.site-title
+		font-size: 5rem
+	.site-mission
 		font-size: 5rem
 
 @media (max-width: 1000px)
@@ -35,19 +44,23 @@
 	#hero
 		// height: 33rem
 	.site-logo
-		max-width: 20rem
-		margin-top: 4rem
+		max-width: 15rem
+		margin-top: -2rem
 	.site-title
-		font-size: 5rem
+		font-size: 4rem
+	.site-mission
+		font-size: 4rem
 
 @media (max-width: 600px)
 	#hero
 		// height: 31rem
 	.site-logo
 		max-width: 15rem
-		margin-top: 2rem
+		margin-top: -2rem
 	.site-title
-		font-size: 3.5rem
+		font-size: 3rem
+	.site-mission
+		font-size: 3rem
 	.cta
 		padding: 1rem
 @media (max-width: 400px)
@@ -55,3 +68,6 @@
 		// height: 25rem
 	.cta
 		padding: 0.5rem
+	.site-logo
+		max-width: 10rem
+		margin-top: 1rem
