@@ -20,7 +20,7 @@ youtube_code: loh3Kb4KXOE
 
 {% include youtube.html %}
 
-I’m excited to bring you my latest message on what to do in a changing market. If you haven’t already, be sure to check out my earlier videos on the topic. &nbsp;
+I’m excited to bring you my latest message on what to do in a changing market. If you haven’t already, be sure to [check out my earlier videos](https://utahrealestatetraining.com/prepare-yourself-for-our-2019-market.html){: target="_blank"} on the topic. &nbsp;
 
 Being prepared for changes our market will continue to endure is a must in the world of real estate. As many as 85% of agents are out of the business within their first five years, and that number shoots up to 98% for agents that make it 10 years. &nbsp; &nbsp;
 
