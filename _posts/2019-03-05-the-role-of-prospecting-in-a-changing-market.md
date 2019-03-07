@@ -32,7 +32,7 @@ The market forecast for 2019 was clear—along with a rise in market prices, we 
 
 Organize the business you’ll acquire into these three categories:&nbsp;
 
-* **Today business.** These are prospects that have to act with immediacy, and they include For Sale By Owner (FSBOs), expired listings, people that have a short window of time to move, etc. &nbsp; &nbsp;
+* **Today business.** These are prospects that have to act with immediacy, and they include For Sale By Owner (FSBOs), sellers that have a short window of time to move, etc. &nbsp; &nbsp;
 * **Tomorrow business.** This is your follow-up business, or those who aren’t ready to act just yet but will be relatively soon. This includes those with a lease that’s nearing its end or those who are a month or so away from getting into the market.
 * **Passive business.** This mode of business is centered around your consistent outreach and will come from your friends, family, and others close to you.
 
