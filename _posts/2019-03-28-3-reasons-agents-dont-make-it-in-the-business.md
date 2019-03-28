@@ -30,7 +30,7 @@ In order to continue fueling your own success so that your career in real estate
 
 {% include pullquote.html %}
 
-**2. They can’t sell homes.** I’ve met quite a few people who possess the gift of gab, but their shortcomings are in their sales skills. This is a script-and-dialogue business, and it’s our job to effectively communicate with our clients, lead them, and lay out all their options. This means we need to understand scripts and tonality when helping clients reach a well-informed, maximally beneficial decision. &nbsp;
+**2. They can’t sell homes.** I’ve met quite a few people who possess the gift of gab, but their shortcomings are in their sales skills. This is a script-and-dialogue business, and it’s our job to effectively communicate with our clients, lead them, and lay out all their options. This means we need to understand scripts and tonality when helping clients reach a well-informed, maximally beneficial decision.&nbsp;
 
 **3. They quit after a few bad experiences.** Rejection in this business is something we’re all accustomed to. It becomes problematic when the agent internalizes this experience and it weighs on their ability to move forward and maintain the attitude that they’re going to create more business. This self-doubt and insecurity tends to lead to excuses, and it spills over into other facets of their life; sadly, this only compounds the issue further. &nbsp;&nbsp;
 
