@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The True Power of Database Marketing
-date: 2019-06-07 15:21:39
+date: 2019-06-07 15:21:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -40,7 +40,7 @@ In addition to this, we **send out two educational video messages each month** t
 
 Another thing that will prove to be beneficial is to **construct and send out a newsletter to everyone in your database.** For our part, my team and I have been sending one out every quarter, but are planning to increase the frequency to every month or every two months. Doing this allows you to position yourself as an authority and provides something tangible that your clients can associate you with.
 
-Because all these strategies and systems require some form of planning, they’ll be on your calendar, which will allow you to **stay task-oriented and top of mind with the clients who make up your database.** Not only that, showing consistency sends the message that you’re an established professional. The message doesn’t have to be all real estate all the time, either: Calling them personally and extending an invite to coffee or stopping by a client’s home to deliver cookies for their birthday works just as well.&nbsp;
+Because all these strategies and systems require some form of planning, they’ll be on your calendar, which will allow you to **stay task-oriented and top of mind with the clients who make up your database.** Not only that, but showing consistency also sends the message that you’re an established professional. The message doesn’t have to be all real estate all the time, either: Calling them personally and extending an invite to coffee or stopping by a client’s home to deliver cookies for their birthday works just as well.&nbsp;
 
 One point that bears repeating is that **your clients need to see that you’re consistent.** As soon as you start to make great strides in your business, it’s easy to slack in this department, but clients need to know you’re here to stay. 85% of agents are out of the business in their first five years, so people want to know they can place their trust in your hands with regard to their biggest asset. &nbsp;&nbsp;
 
