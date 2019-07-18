@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Bad Clients Causing Your Business To Stall?
-date: 2019-07-18 19:00:32
+date: 2019-07-18 19:00:00
 tags:
   - Buyer Prospects
 excerpt: >-
