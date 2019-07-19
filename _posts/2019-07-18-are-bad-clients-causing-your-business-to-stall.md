@@ -35,7 +35,7 @@ Well, ultimately, it’s best to realize that even in those circumstances, wasti
 
 **Channeling your time and energy into positive opportunities and people will always be a better choice than the alternative.** While I generally believe people are good at their core, there are unfortunately some emotional vampires out there who drain your energy, your resources, and your emotional wellbeing.&nbsp;
 
-So not only can bad clients be detrimental from a business perspective, they can also be harmful on a personal level, as well.&nbsp;
+So not only can bad clients be detrimental from a business perspective, they can be harmful on a personal level, as well.&nbsp;
 
 Thankfully, you have the control to avoid these kinds of people in your real estate career. Remember: What you do today will impact what happens to you three months down the line. In other words, make every moment of every day count. Your future self will be grateful for it.
 
