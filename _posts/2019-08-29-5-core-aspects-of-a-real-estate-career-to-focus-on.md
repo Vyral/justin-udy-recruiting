@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Core Aspects of a Real Estate Career to Focus On
-date: 2019-08-29 21:48:53
+date: 2019-08-29 21:48:00
 tags:
   - Lead Generation
   - Lead Conversion
@@ -30,7 +30,7 @@ One of the hardest challenges I ever ran into as a brand-new agent was that I wa
 
 **1\. Lead generation.** Schedule activities in your calendar that will build your business every day, including meeting new people, networking, and doing more to put your brand in front of people.
 
-**2\. Lead nurturing.** How do you nurture your leads? Do you use a notecard system, or do you have a CRM? Having an organized system is critical, especially if you have more leads coming in that you can handle on your own.
+**2\. Lead nurturing.** How do you nurture your leads? Do you use a notecard system, or do you have a CRM? Having an organized system is critical, especially if you have more leads coming in than you can handle on your own.
 
 {% include pullquote.html %}
 
