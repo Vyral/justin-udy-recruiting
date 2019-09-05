@@ -30,12 +30,19 @@ sidebar_CTA:
     CTA_link_text: "Schedule a Sit Down"
     CTA_url: /contact/
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/002.jpg
-#     CTA_title2: "Join Our Team"
-#     CTA_text2: "Sell more homes by joining forces with the our dynamic real estate company."
-#     CTA_link_text2: "Career Info"
-#     CTA_url2: /
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.jpg
+    CTA_title2: "Have a question you'd like us to answer?"
+    CTA_text2: "Send it to us and we'll answer it with a video."
+    CTA_link_text2: "Suggest a Topic"
+    CTA_url2: /suggest-a-topic/
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title3: "Looking for our next training event?"
+    CTA_text3: "Get information about our upcoming training events."
+    CTA_link_text3: "Message Us"
+    CTA_url3: /events/
 
 lender:
   show_section: false

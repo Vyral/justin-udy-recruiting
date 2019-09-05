@@ -1258,7 +1258,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #cccddc;
+  -webkit-tap-highlight-color: #71749e;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1294,7 +1294,7 @@ html[xmlns] .flexslider .slides {
       width: 100%;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #cccddc; }
+        color: #71749e; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1303,7 +1303,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #cccddc;
+      background-color: #71749e;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1703,7 +1703,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #cccddc; }
+    color: #71749e; }
   a:visited {
     text-decoration: none; }
 
@@ -1714,7 +1714,7 @@ a {
   border: 1px solid #8f92b3;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #cccddc;
+    background: #71749e;
     border: 1px solid #8f92b3;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1732,8 +1732,8 @@ a {
   border-color: #8f92b3;
   color: #8f92b3; }
   .button-ghost.brand:hover {
-    border-color: #cccddc;
-    color: #cccddc; }
+    border-color: #71749e;
+    color: #71749e; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1995,7 +1995,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #cccddc; }
+      color: #71749e; }
 
 .post-share {
   text-align: center;
@@ -2122,16 +2122,16 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #cccddc;
+      fill: #71749e;
       background: transparent;
-      color: #cccddc;
+      color: #71749e;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #cccddc;
+      box-shadow: 0 0 0 #71749e;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2144,7 +2144,7 @@ table tr, table td {
     width: 5rem;
     fill: #8f92b3; }
     .about .socials svg:hover {
-      fill: #cccddc; }
+      fill: #71749e; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2160,7 +2160,7 @@ table tr, table td {
     fill: #8f92b3;
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #cccddc;
+      fill: #71749e;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2393,7 +2393,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #cccddc; }
+    fill: #71749e; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2475,7 +2475,7 @@ table tr, table td {
     cursor: pointer;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #eaebf1; }
+      color: #8f92b3; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2534,8 +2534,8 @@ form select {
     color: #8f92b3;
     background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #cccddc;
-      background-color: #cccddc;
+      border: 3px solid #71749e;
+      background-color: #71749e;
       color: #fff; }
 
 .asterisk {
