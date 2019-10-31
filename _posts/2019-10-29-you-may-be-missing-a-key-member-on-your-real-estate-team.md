@@ -32,6 +32,6 @@ Statistically, **only 15% of the agents in the market have a true, full-time ass
 * They help get the final steps and details of the closing process done in a timely manner.
 * They provide a level of service to our clients that we may not have the time, energy, or ability to do given the busy nature of an agent’s job.
 
-**Having a closing coordinator on your team creates leverage and opportunity in your business, propelling your forward quicker and smoother than ever.**
+Having a closing coordinator on your team creates leverage and opportunity in your business, propelling your forward quicker and smoother than ever.
 
 If you need any help creating leverage to improve your business, feel free to reach out to me. I’d be happy to discuss my strategies with you.
