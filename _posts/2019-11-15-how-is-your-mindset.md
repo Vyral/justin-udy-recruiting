@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Your Mindset?
-date: 2019-11-15 19:13:17
+date: 2019-11-15 19:13:00
 tags:
   - Transaction Management
   - Lead Conversion
@@ -24,7 +24,7 @@ youtube_code: 02cJA98b_Ng
 
 Today I want to discuss the No. 1 item for success in this business: mindset. **The reason mindset is No. 1 is because it is what we carry with us all day,** every day. In the real estate business, to be the best in your office and your market, it comes down to you making sure that a positive attitude leads your thoughts consistently.
 
-This business is difficult because people are emotional, there’s challenges with agents, sellers, and buyers, you’re dealing with title companies, mortgage people, and so on. The reason 80% of all agents leave the business within five years is because they do not have the correct mindset. You need to think about what you can do to conquer a negative mentality. Surround yourself with a positive temperament.
+This business is difficult because people are emotional, there are challenges with agents, sellers, and buyers, and you’re dealing with title companies, mortgage people, and so on. The reason 80% of all agents leave the business within five years is that they do not have the correct mindset. You need to think about what you can do to conquer a negative mentality. Surround yourself with a positive temperament.
 
 {% include pullquote.html %}
 
