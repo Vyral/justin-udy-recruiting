@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make 2020 Your Best Year Yet
-date: 2019-12-02 17:27:31
+date: 2019-12-02 17:27:00
 tags:
   - Transaction Management
 excerpt: 'By outlining your SMART goals now, you’ll have your best year yet in 2020.'
@@ -27,6 +27,6 @@ When I meet with fellow agents, one of the biggest challenges they have is that,
 * Relevant: Make sure your goals make sense and are something you can push toward
 * Timely: Set an end date on your goals&nbsp;
 
-As you follow this list, these criteria will help you move forward quicker with your plan. One tip that’s always helped me is segmenting things into “one” increments: one day, one week, one month, one quarter, and one year. I have certain things I want to get done in a day, a week, a month, etc.&nbsp;
+As you follow this list, these criteria will help you move forward with your plan. One tip that’s always helped me is segmenting things into “one” increments: one day, one week, one month, one quarter, and one year. I have certain things I want to get done in a day, a week, a month, etc.&nbsp;
 
 If you’d like to know more about setting goals or want me to provide a list of SMART goals you can follow, don’t hesitate to call or email me. I’d love to speak with you.
