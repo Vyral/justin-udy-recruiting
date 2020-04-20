@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Adapt to Our Changing Market
-date:
+date: 2020-04-20 19:32:07
 tags:
   - Transaction Management
   - Buyer Prospects
