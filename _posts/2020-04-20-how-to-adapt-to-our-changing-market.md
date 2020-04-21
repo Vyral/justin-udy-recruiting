@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Adapt to Our Changing Market
-date: 2020-04-20 19:32:07
+date: 2020-04-20 19:32:00
 tags:
   - Transaction Management
   - Buyer Prospects
@@ -23,13 +23,13 @@ youtube_code: 2VFl071rPmA
 
 For many, the changing status of the economy during the COVID-19 pandemic is nerve-wracking. Similarly to the 2008 housing crisis and 9/11, people have started to pull back on their transactions. Today I’ll share five things you can do to help you stay in this business if your brokerage or team isn’t leading you to make the best decisions.
 
-**1\. Have the right mindset.** According to Lawrence Yung, there has only been a 10% adjustment in the number of homes that will come off the market. That means 90% of the homes are still there. There was demand for homes before the pandemic hit, and there will be demand after things have begun to settle. We don’t know how long this will last, so we just have to shut out the negativity and stick to our plan of helping people’s transactions move forward.
+**1\. Have the right mindset.** According to Lawrence Yun, there has only been a 10% adjustment in the number of homes that will come off the market. That means 90% of the homes are still there. There was demand for homes before the pandemic hit, and there will be demand after things have begun to settle. We don’t know how long this will last, so we just have to shut out the negativity and stick to our plan of helping people’s transactions move forward.
 
 **2\. Ramp up your contacts.** Prospecting is a fundamental part of this business. Many agents have said that they’re in the referral business, but if those people are relying on referrals alone, they’ll quickly go out of business. We’ve increased our prospecting time from two hours a day to four. Now, we have to make twice as many contacts to do the same amount of business. But that’s okay—some people have decided to put off their transactions, so we have more time to dedicate to prospecting.
 
 {% include pullquote.html %}
 
-**3\. Hold yourself accountable.** If you were making a minimum of 20 contacts a day, make that forty contacts, and track how many contacts go from set to met to signed so that you know how many contacts you’ll need to make to do one deal a day. If you can do one deal a day, you’ll be a top producing agent.
+**3\. Hold yourself accountable.** If you were making a minimum of 20 contacts a day, make that 40 contacts, and track how many contacts go from set to met to signed so that you know how many contacts you’ll need to make to do one deal a day. If you can do one deal a day, you’ll be a top producing agent.
 
 **4\. Be a leader and squash uncertainty.** In this market where there’s a lot of uncertainty, you have to create certainty for your clients. We can still get things done for them, but we have to tell them what the next steps are.
 
