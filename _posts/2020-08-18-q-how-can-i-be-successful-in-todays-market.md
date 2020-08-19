@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can I Be Successful in Today’s Market?'
-date: 2020-08-18 19:37:02
+date: 2020-08-18 19:37:00
 tags:
   - Buyer Prospects
   - Listing Presentation
@@ -21,7 +21,7 @@ youtube_code: dfCmgT86898
 
 I’m sharing the three keys to success in the current competitive Salt Lake City real estate market. These three things have helped me and my team for 15 years, and they can help you too.&nbsp;
 
-**1\. Practice.** Every day you need to practice your scripts, the way you communicate, etc. This is your craft; ensure you’re conveying the message so it’s well-received, and they understand your value.
+**1\. Practice.** Every day you need to practice your scripts, the way you communicate, etc. This is your craft; ensure you’re conveying the message so it’s well-received, and potential clients understand your value.
 
 {% include pullquote.html %}
 
