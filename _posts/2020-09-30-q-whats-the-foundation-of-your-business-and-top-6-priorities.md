@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: What’s the Foundation of Your Business?'
-date: 2020-09-30 18:53:09
+title: 'Q: What''s the Foundation of Your Business and Top 6 Priorities?'
+date: 2020-09-30 18:53:00
 tags:
   - Transaction Management
   - Buyer Prospects
