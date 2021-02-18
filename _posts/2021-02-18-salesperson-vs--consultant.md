@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Salesperson vs. Consultant
-date: 2021-02-18 21:12:21
+date: 2021-02-18 21:12:00
 tags:
   - Buyer Prospects
 excerpt: Here’s the difference between being a salesperson and a consultant.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/Salesperson+vs.+Consultant.mp4
 pullquote: >-
   If you provide your clients world-class service and meet their needs at every
   level, they’ll always come back to you.
