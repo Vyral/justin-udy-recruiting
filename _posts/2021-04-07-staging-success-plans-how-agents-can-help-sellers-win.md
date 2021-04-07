@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staging Success Plans: How Agents Can Help Sellers Win'
-date: 2021-04-07 20:31:34
+date: 2021-04-07 20:31:00
 tags:
   - Listing Presentation
   - Transaction Management
@@ -23,7 +23,7 @@ When you’re helping a client sell a home, staging is incredibly important. Thi
 
 **1\. It gives them an order of priority:** The staging success plan lets sellers see what they need to focus on and which items take priority. It can be challenging for sellers to go through a long list of things they need to change, but helping them figure out how and when to tackle each task makes the process much easier.
 
-**2\. It gets the most important items done:** The success plan shows sellers which tasks will get them the biggest bang for their buck. Sometimes, you can’t do it all, so this lets them know which things to prioritize.
+**2\. It gets the most important items done:** The success plan shows sellers which tasks will get them the biggest bang for their buck. Sometimes, you can’t do it all, so this lets them know which things to prioritize.<br>&nbsp;
 
 {% include pullquote.html %}&nbsp;
 
