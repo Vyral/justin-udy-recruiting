@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/staging-plan-yt.jpg
-youtube_code: Tgszz9D8tas
+youtube_code: 3aricTebFmU
 ---
 {% include youtube.html %}
 
