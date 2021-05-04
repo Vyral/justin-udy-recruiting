@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Comparables for Your Listing
-date: 2021-05-03 19:33:58
+date: 2021-05-03 19:33:00
 tags:
   - Transaction Management
   - Listing Presentation
@@ -23,11 +23,11 @@ When I first started working in this industry, I worked with an agent who was al
 
 The appraiser doesn’t truly set the value, the value is what we’re able to sell the home for; **real estate agents are determining the market**. That’s based on what we do and how we help our clients prepare their houses for the market. If we prepare the property well, we set the highest comp in the area.&nbsp;
 
-When examining comparables, we first look at similar properties in close proximity. The property behind me in the video above is an 11,400 square foot home we’re preparing for the market. To find comparables for it, we’d looked at multi-story homes nearby, not ramblers.&nbsp;
+When examining comparables, we first look at similar properties in close proximity. The property behind me in the video above is an 11,400-square-foot home we’re preparing for the market. To find comparables for it, we’d looked at multi-story homes nearby, not ramblers.&nbsp;
 
 {% include pullquote.html %}
 
-In an older market with few sales, sometimes you can check out homes that sold a year or two ago. If you have a unique property like the one behind me, you may have to go back that far because there aren’t many 11,000 square foot homes. You won’t be using homes that sold that long ago as comparables but as benchmarks.&nbsp;
+In an older market with few sales, sometimes you can check out homes that sold a year or two ago. If you have a unique property like the one behind me, you may have to go back that far because there aren’t many 11,000-square-foot homes. You won’t be using homes that sold that long ago as comparables but as benchmarks.&nbsp;
 
 Benchmarks help you get to the next stage, which is adding in the house’s amenities. This property has a lap pool, indoor racquetball court, seven bedrooms, and eight bathrooms; it isn’t the same as an average home. **Adding amenities into the equation adds value,** then we can compare those features to other houses that have sold. Some may have sold for $1 million, some might have sold for $2.5 million, so then we start narrowing it down until we find a true comparable sale.
 
