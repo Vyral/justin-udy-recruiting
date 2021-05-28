@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips To Attract More Clients
-date: 2021-05-27 20:03:54
+date: 2021-05-27 20:03:00
 tags:
   - Buyer Prospects
   - Lead Generation
@@ -33,4 +33,4 @@ Today I’m talking to you about how you can attract more clients and how to cre
 
 4:53 — Wrapping up
 
-If you as an agent, are looking for help coming up with a process suited to your business, reach out to me and we can give you a free consultation. Talk to you soon.
+If you'd like some help coming up with a process suited to your business, reach out to me, and I'll give you a free consultation. Talk to you soon.
