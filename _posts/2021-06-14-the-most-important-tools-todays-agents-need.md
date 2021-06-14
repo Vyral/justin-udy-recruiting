@@ -8,7 +8,8 @@ tags:
   - Listing Presentation
   - Transaction Management
 excerpt: Here are three things to bring with you to every single appointment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/The+Most+Important+Tools+Today%E2%80%99s+Agents+Need.mp4
 pullquote: If you come with data and info, they know you’re ready to work.
 enclosure_type: video/mp4
 enclosure_time:
