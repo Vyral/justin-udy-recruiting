@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/value-add-yt.jpg
-youtube_code: byhC-QXFh18
+youtube_code: 7axDkC7Uc0E
 ---
 {% include youtube.html %}
 
