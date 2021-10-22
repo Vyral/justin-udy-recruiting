@@ -6,7 +6,8 @@ tags:
     - Lead Conversion
     - Buyer Prospects
 excerpt: Here’s how you can make sure you capture more clients with your follow up.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2021/How+You+Can+Level+Up+Your+Follow+Up.mp4
 pullquote: On average, it takes eight to 13 tries to get in touch with someone.
 enclosure_type: video/mp4
 enclosure_time:
