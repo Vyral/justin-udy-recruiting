@@ -12,7 +12,7 @@ pullquote: On average, it takes eight to 13 tries to get in touch with someone.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/text-yt.jpg
+youtube_alternate_image: /uploads/follow-up-yt.jpg
 youtube_code: LVZcs5roOVw
 ---
 {% include youtube.html %}
