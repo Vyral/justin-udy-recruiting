@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digging Deep to Find New Business
+title: Digging Deep To Find New Business
 date: 2021-12-03 22:06:53
 tags:
   - Buyer Prospects
@@ -23,6 +23,6 @@ If there’s an important date coming up, mark it on your calendar, come up with
 
 {% include pullquote.html %}
 
-It’s tough prospecting every day but **when you schedule a time to work on that month’s outreach project, it becomes a lot easier.** Sending a video, physical mail, and even phone calls will make you stand out in this business of connections. This is an extra way to dig a little bit deeper with your clients, get them to know you, and remember you.
+It’s tough prospecting every day, but **when you schedule a time to work on that month’s outreach project, it becomes a lot easier.** Sending a video, physical mail, and even making phone calls will make you stand out in this business of connections. This is an extra way to dig a little bit deeper with your clients, get them to know you, and remember you.
 
-If you're looking for free business consultation or you have any questions, reach out to us. We’d love to help you.
+If you'd like a free business consultation or have any questions, reach out to us. We’d love to help you.
