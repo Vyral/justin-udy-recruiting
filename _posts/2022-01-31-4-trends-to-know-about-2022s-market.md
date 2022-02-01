@@ -32,4 +32,4 @@ What are the trends in the current real estate market? What’s changing? What s
 
 5:40 — Wrapping up today’s topic
 
-If today’s topic helped you, I may be able to incite more ideas for your business, and I’d be glad to speak with you. Just call or visit my website; I look forward to assisting you.
+If this video helped you, I may be able to incite more ideas for your business, and I’d be glad to speak with you. Just call or visit my website; I look forward to assisting you.
