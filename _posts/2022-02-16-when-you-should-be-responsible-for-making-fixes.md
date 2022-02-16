@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are some stories that illustrate when to pay for fixes in a client’s
   home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/When+You+Should+Be+Responsible+for+Making+Fixes.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
