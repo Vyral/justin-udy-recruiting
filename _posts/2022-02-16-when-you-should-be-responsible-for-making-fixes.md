@@ -28,7 +28,7 @@ Have you maybe considered paying for some fixes around your client’s house eit
 
 1:34 — Why easing the burden for your client is smart if you’re the linchpin of the transaction
 
-2:10 — Another story involving a property with a crack in the window and two hard-headed sides
+2:10 — Another story involving a property with a crack in the window and two hard-headed people
 
 3:00 — Why getting things done as quickly as possible is essential in this fast-moving market
 
@@ -36,6 +36,6 @@ Have you maybe considered paying for some fixes around your client’s house eit
 
 4:30 — When you absolutely need to pay for fixes and why
 
-5:41— Final thoughts and wrapping things up
+5:41— Final thoughts&nbsp;
 
 If you’re an agent looking for a team to help you reach your goals, we’re hiring right now. Call or email us, and let’s have a conversation to see if we’re a good fit. I look forward to hearing from you soon.
