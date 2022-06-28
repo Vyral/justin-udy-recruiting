@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/thrive-in-changing-market-yt-1.jpeg
-youtube_code: OHBcqNJ6eBA
+youtube_code: pV0BTDMFeWc
 ---
 {% include youtube.html %}
 
