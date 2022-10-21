@@ -24,7 +24,7 @@ I just got done filming a video for our clients to inform them about our annual 
 
 {% include pullquote.html %}
 
-It’s a good idea to call your clients regularly; I recommend at least once a quarter. However, it’s not the same as seeing someone face to face. Typically, **you need to be in front of people at least 24 times within a calendar year** to keep them warmand help them remember that you are a professional real estate agent.&nbsp;
+It’s a good idea to call your clients regularly; I recommend at least once a quarter. However, it’s not the same as seeing someone face to face. Typically, **you need to be in front of people at least 24 times within a calendar year** to keep them warm and help them remember that you are a professional real estate agent.&nbsp;
 
 With events, we always incorporate our core values. For example, we're going to sponsor a charity for this one. In other years we've done a variety of things, but it needs to be true to you. Also, **make sure your event is relevant to your clientele.** Aim the theme toward their genders, ages, and interests. Our job is to make these small deposits over time so that we are a trusted source they know.
 
