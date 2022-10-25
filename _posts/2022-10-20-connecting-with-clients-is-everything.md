@@ -4,7 +4,8 @@ title: Connecting With Clients Is Everything
 date: 2022-10-20 05:00:00
 tags:
 excerpt: 'How I try to build long-lasting relationships with my clients. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Udy/Videos/2022/Connecting+With+Clients+Is+Everything.mp4
 pullquote: >-
   Our job is to make these small deposits over time so that we are a trusted
   source they know.
