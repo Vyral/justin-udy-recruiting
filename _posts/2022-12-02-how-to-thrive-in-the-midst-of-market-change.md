@@ -16,6 +16,8 @@ youtube_code: PxcIi4vpjzU
 
 {% include excerpt.html %}
 
+RSVP at&nbsp;[**marketexpertacademy.com**](http://marketexpertacademy.com/){: target="_blank" rel="noopener"}&nbsp;for the Business Building Class<br>Dec 9th - 12:00 - 2:00 PM<br>6925 S Union Park Center 6th floor, Midvale, UT
+
 House prices are dropping, interest rates are rising, and buyers are being eliminated from the market—it’s clear that the market is changing. As a result, **600,000 agents are planning to leave the industry.** Are you worried that’s going to be you? I don’t want that to happen to you, so to help, I will be teaching a class.&nbsp;
 
 To help you be informed and perform well, I will cover the top five things you need to do in 2023, as well as the effectiveness of business planning. I want to help you take practical steps and implement them so 2023 can be your best year yet. **The event will be on December 9, from 12 to 2 p.m., at 6925 S. Union Park Center STE 600, Midvale, Utah.**&nbsp;
