@@ -34,4 +34,4 @@ What are the commitments that any real estate agent has to do to thrive in any m
 
 5:49 — Wrapping up
 
-If you have any questions about this topic or anything that’s real estate related, call or email me. I’m always happy to help\!
+If you have questions about this topic or anything that’s real estate related, call or email me. I’m always happy to help\!
