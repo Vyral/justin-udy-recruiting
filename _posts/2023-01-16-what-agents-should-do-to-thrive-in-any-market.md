@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: iVTeKIP5y_0
+youtube_alternate_image: /uploads/5-commitments-yt.jpg
+youtube_code: EYlLO-xnKok
 ---
 {% include youtube.html %}
 
