@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: i7w3en33-Dw
+youtube_alternate_image: /uploads/momentum-yt.jpg
+youtube_code: _Ufg2vNC-fU
 ---
 {% include youtube.html %}
 
