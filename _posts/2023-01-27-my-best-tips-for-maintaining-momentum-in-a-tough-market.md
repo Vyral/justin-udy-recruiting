@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Best Tips For Maintaining Momentum In A Tough Market
+title: My Best Tips for Maintaining Momentum Today
 date: 2023-01-27 00:00:00
 tags:
 excerpt: 'How struggling agents can survive and maintain momentum in this market. '
