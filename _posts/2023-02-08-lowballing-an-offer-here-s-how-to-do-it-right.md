@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/rec-low-offers-yt.jpg
-youtube_code: hFpEK93eauc
+youtube_code: Dt91yN4mRC4
 ---
 {% include youtube.html %}
 
