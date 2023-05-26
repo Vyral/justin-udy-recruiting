@@ -7,12 +7,12 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Meet Our Team
-    url: 'https://justinudy.com/agents'
+    url: https://justinudy.com/agents
 client:
   name: Justin Udy
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Justin Udy and Team Real Estate is a group of like-minded, success-hungry
     real estate professionals in Salt Lake City who are one of the highest
     producing teams in the country (In the top 1% according to RealTrends). The
@@ -25,13 +25,13 @@ client:
   brand: Justin Udy & Team Real Estate
   brokerage: Century 21 Everest Realty Group
   market: Salt Lake City
-  address: '6925 S. Union Park Center Suite 200<br>Midvale, Utah 84047'
+  address: 6925 S. Union Park Center Suite 200<br>Midvale, Utah 84047
   phone: 801-285-0521
   phone_type:
   phone2:
   phone2_type:
   email: Justin@JustinUdy.com
-  url: 'https://JustinUdy.com'
+  url: https://JustinUdy.com
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Looking to Build Your Real Estate Career?
@@ -55,20 +55,20 @@ third_sidebar_CTA:
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
+  headshot_path: http://fillmurray.com/200/200
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: 'http://eyegoop.com'
+  url: http://eyegoop.com
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/pages/Justin-Udy-Real-Estate/129849307036755'
-  linkedin_url: 'https://www.linkedin.com/in/justinudy'
-  youtube_url: 'https://www.youtube.com/channel/UCTTvq11VJt1IX0NIfqyY1xA'
-  twitter_url: 'https://twitter.com/justinudy'
+  facebook_url: https://www.facebook.com/pages/Justin-Udy-Real-Estate/129849307036755
+  linkedin_url: https://www.linkedin.com/in/justinudy
+  youtube_url: https://www.youtube.com/channel/UCTTvq11VJt1IX0NIfqyY1xA
+  twitter_url: https://twitter.com/justinudy
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -96,7 +96,7 @@ podcast:
     buyer
   author: Justin Udy
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/headshot-beard.png
   hero_logo_path: /img/logo.png
   logo_width_number: 60
   hero_text: Utah Real Estate Trainings
@@ -119,8 +119,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
