@@ -15,6 +15,8 @@ youtube_code: tV5_mY8UfhA
 
 {% include excerpt.html %}
 
+[**APPLY HERE TO JOIN OUR TEAM!**](https://wizehire.com/cmp/justin-udy-team)
+
 Did you know that there are currently over 9,000 active members on the Board of Realtors? About 30% of board members didn't sell a home in 2023, while 20% sold just one home or less. The remaining 50% have successfully sold two or more homes. Are you dedicated, knowledgeable, and consistent in your work?
 
 Perhaps you've had a successful business in the past, but you're currently not closing deals or experiencing a significant decrease in business. Let me share some insights I've gathered from fellow agents. Most agents are facing a roughly 30% decline in their business compared to previous levels. However, my team and I have managed to achieve a 20% increase. I share this not to boast but to emphasize that if you're a hardworking individual who aspires to improve your situation, there are opportunities in today's market.
