@@ -15,7 +15,9 @@ youtube_code: tV5_mY8UfhA
 
 {% include excerpt.html %}
 
-[**APPLY HERE TO JOIN OUR TEAM!**](https://wizehire.com/cmp/justin-udy-team)
+[**APPLY FOR OUR SALES SPECIALIST POSITION**](https://jobs.wizehire.com/job/real-estate-sales-specialist-in-midvale-ut-us-086399c607123651){: target="_blank" rel="noopener"}
+
+[**VIEW OTHER OPEN POSITIONS**](https://wizehire.com/cmp/justin-udy-team){: target="_blank" rel="noopener"}
 
 Did you know that there are currently over 9,000 active members on the Board of Realtors? About 30% of board members didn't sell a home in 2023, while 20% sold just one home or less. The remaining 50% have successfully sold two or more homes. Are you dedicated, knowledgeable, and consistent in your work?
 
