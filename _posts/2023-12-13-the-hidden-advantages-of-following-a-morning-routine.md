@@ -27,7 +27,7 @@ In our fast-paced world, the daily routines we adopt can either empower us or im
 
 2:03 — It increases your adaptability and resilience
 
-3:24 — It boosts you gross income
+3:24 — It boosts your gross income
 
 3:44 — A story about my professional baseball player friend
 
