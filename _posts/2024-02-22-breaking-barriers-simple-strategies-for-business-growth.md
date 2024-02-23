@@ -23,12 +23,12 @@ One of the most common barriers I’ve observed when meeting with agents is the 
 
 {% include pullquote.html %}
 
-Act with urgency when inspiration strikes. Your conscience often guides you towards what you need to do next. Ignoring your intuition or succumbing to self-doubt ("I'm not smart enough" or "I'm not good enough") only leads to missed opportunities. I've witnessed firsthand how acting swiftly and with enthusiasm can lead to incredible outcomes, even against more experienced competitors.
+Act with urgency when inspiration strikes. Your conscience often guides you toward what you need to do next. Ignoring your intuition or succumbing to self-doubt ("I'm not smart enough" or "I'm not good enough") only leads to missed opportunities. I've witnessed firsthand how acting swiftly and with enthusiasm can lead to incredible outcomes, even against more experienced competitors.
 
-A memorable moment in my career was when a new agent on my team, faced with the challenge of securing listings, decided to take bold action by door-knocking with specific questions I had given him. **By the end of his first week, he secured a $1,000,000 listing.** This story is a testament to the power of starting somewhere and executing with determination.
+A memorable moment in my career was when a new agent on my team, faced with the challenge of securing listings, decided to take bold action by door-knocking with specific questions I had given him. **By the end of his first week, he secured a $1 million listing.** This story is a testament to the power of starting somewhere and executing with determination.
 
 If you’re feeling stuck, make a list of what you aim to achieve. Prioritize tasks that your inner voice urges you to tackle. The 1-3-5 method is an excellent tool for setting goals: one big goal, three medium tasks, and five small steps. Execution is what differentiates top performers, wealthy clients, and genuinely inspiring individuals from the rest.
 
 Remember, you're not alone in navigating the complexities of building or growing a business. I'm here to share insights, offer guidance, and support you in taking those critical first steps toward your goals.
 
-So, what’s holding you back? Identify one small action you can take today to move closer to your goals, and just start. Success is a journey made up of countless small steps, and the first one is always the most important. If you need assistance or have questions, don't hesitate to reach out. Let’s make your business aspirations a reality.
+So, what’s holding you back? Identify one small action you can take today to move closer to your goals, and just start. Success is a journey made up of countless small steps, and the first one is always the most important. If you need assistance or have questions, don't hesitate to call or email us. Let’s make your business aspirations a reality.
