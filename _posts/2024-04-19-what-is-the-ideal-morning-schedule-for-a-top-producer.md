@@ -11,7 +11,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/justin-udy-ss-template-recruiting.png
 youtube_code:
 ---
-{% include youtube.html %}
+&nbsp;
 
 ![](/uploads/justin-udy-ss-template-recruiting.png){: width="1280" height="720"}
 
