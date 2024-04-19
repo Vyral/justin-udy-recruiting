@@ -13,11 +13,7 @@ youtube_code:
 ---
 &nbsp;
 
-![](/uploads/justin-udy-ss-template-recruiting.png){: width="1280" height="720"}
-
-{% include excerpt.html %}
-
-in real estate doesn't happen by chance. It's the result of disciplined habits, especially in how you start your day. For top producers in the real estate industry, mornings are a critical time to set the tone for a productive day ahead. In a recent study, 92% of those who had a morning routine characterized themselves as highly productive. This is crucial in our modern, digital age when US workers are reporting being interrupted every three to 11 minutes throughout their day. As we head into the busy spring season, let’s dive into the ideal morning schedule that can help elevate your real estate game.
+Success in real estate doesn't happen by chance. It's the result of disciplined habits, especially in how you start your day. For top producers in the real estate industry, mornings are a critical time to set the tone for a productive day ahead. In a recent study, 92% of those who had a morning routine characterized themselves as highly productive. This is crucial in our modern, digital age when US workers are reporting being interrupted every three to 11 minutes throughout their day. As we head into the busy spring season, let’s dive into the ideal morning schedule that can help elevate your real estate game.
 
 **1\. Practicing self-care.** The morning begins the night before. Top producers understand the value of a good night's sleep and have a consistent wake-up time. Upon rising, engage in a home routine that prioritizes self-care—this might include meditation, a workout session, or simply enjoying a healthy breakfast. Physical activity, in particular, energizes the body and sharpens the mind, preparing you for the day ahead. Remember, a healthy agent is a more effective agent.
 
