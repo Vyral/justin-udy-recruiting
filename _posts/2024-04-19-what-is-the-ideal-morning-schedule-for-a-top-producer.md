@@ -11,8 +11,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/justin-udy-ss-template-recruiting.png
 youtube_code:
 ---
-&nbsp;
-
 In our fast-paced local real estate market, starting your day on the right foot can make all the difference between just getting by and being a top producer. I've worked with best of the best and I have learned that a well-structured morning routine not only sets the tone for your productivity throughout the day but also nourishes your mind, body, and soul. By focusing on self-care and prioritizing important tasks, you can unlock a higher level of performance, higher income levels and optimal satisfaction in your professional and personal life. Here’s how I would recommend you structure a morning routine that propels you into the ranks of top producers in real estate.
 
 **1\. Early Wake Up: Begin with Positive Self-Talk**
