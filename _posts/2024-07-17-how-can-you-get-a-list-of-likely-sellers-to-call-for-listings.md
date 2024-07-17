@@ -1,0 +1,24 @@
+---
+layout: post
+title: How Can You Get a List of Likely Sellers To Call for Listings?
+date: 2024-07-17 05:00:00
+excerpt: Effective strategies to secure seller leads in a competitive market
+enclosure:
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: false
+youtube_alternate_image: /uploads/justin-udy-ss-template-recruiting-2.jpg
+youtube_code:
+---
+Where can I get a list of likely sellers to call for listings? This is an increasingly important question following the NAR lawsuit. We all know that now, and continuing into the future, the landscape of real estate is changing. While the effects of the lawsuit are likely to continue shaking out for some time, we know one thing without a doubt: If you are going to succeed and thrive in this business, sellers are where the money is.
+
+Before I answer that question, however, let me ask you one in return. Are you just looking to cut a check and throw money at a problem until it goes away? There are a ton of services out there waving flags, offering to sell you lists of cold, low-quality home-valuation leads. These, however, are not the best way to go about generating a quality list of seller leads. Today, I am going to break down the three sources that you can use to generate a list that will consistently provide results.
+
+**1\. Old buyer leads.** Remember those old buyer leads that you never called? That long list of leads that are sitting around somewhere gathering dust? Let’s dust those off and put them to work because I’m here to tell you that those people? They bought a home from someone. They made their purchase, and they aren’t likely to be very committed to their old agent. These people are now homeowners, and they are “selling curious.” Why not sit down and make a few calls or send a few emails? Ask them if they would like to receive a cash offer or whether they are interested in a professional, up-to-date market analysis of their home. You’ll be surprised at the rate of success.
+
+**2\. Go deeper.** You probably aren’t going deep enough into your existing database. There are far too many agents out there who would rather spend all day getting rejected by expireds than simply pick up the phone and call a buyer client from three years ago. What you need to do is adopt a reliable, repeatable method for prospecting your database into your business. Even if you can’t call your whole database on a regular basis, this is where a reputable service can help you maintain yourself as top-of-mind in your whole database. I personally have had great success with the 36-touch philosophy of sending out two educational videos a month and one lead generation per month to your database. This keeps your name and face in front of your database so that, when they’re ready to sell, they already know who they are going to sell with.
+
+**3\. Lead generation services.** Out of all of the options for buying seller leads that are affordable and reliable, my favorites are the ones that advertise to sellers a quick, cash offer. These tend to find sellers who are highly motivated leads—those who need to move quickly and have had limited success in their journey thus far. Be aware that you may have to call these leads several times, and it’s possible that they are being called by other agents at the same time, but it is much easier to convert a lead when it’s someone who has already raised their hands. Someone who has identified themself as a person who wants out of their house. The successful companies are the ones that spend a lot of money on marketing to generate those kinds of leads. An excellent example with which I’ve had great success is zBuyer, whose turnkey marketing strategy offers tremendous results. You can go to their website, put in your information, and quickly get a price for quality buyer leads in your zip code. Other options might include PropStream or Property Radar, or your MLS may already include products like RealQuest or Remine. Whatever product you use, just make sure it is precisely targeted toward sellers who are already volunteering their willingness to sell.
+
+So there you have it: Three ways that you can get a list of likely sellers to call for listings. Remember, the successful agent is always the one willing to put in the boots-on-the-ground effort to convert their leads, but also the personal development to ensure that their efforts have the highest rate of success. If you have any questions about generating a list of seller leads or want to take the next steps in becoming a rockstar agent, feel free to reach out by phone or email. I would be delighted to serve as your resource for all of your real estate needs.
