@@ -7,7 +7,9 @@ excerpt: >-
   Breaking down how agents can navigate this volatile market, from setting clear
   expectations with clients to future-proofing your prices.
 enclosure:
-pullquote:
+pullquote: >-
+  etting clear expectations with your clients results in smoother sales from
+  start to finish.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
