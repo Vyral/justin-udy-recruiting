@@ -26,7 +26,7 @@ The truth is many agents get stuck just trying to keep up. They wake up, tackle 
 
 I tell anyone who wants to be the **go-to agent** that it’s about **being your best every day.** This isn’t just motivational talk—it’s practical, game-changing advice. Let me break it down for you:
 
-**1\. Start your day with purpose.** First, wake up early. I know it sounds simple, but hear me out. You set the tone for the day when you get up before most people (think *before 5 a.m.*). You have time to read, reflect, and mentally prepare. Those quiet moments are gold. They’re when you fuel your mind with new ideas from the best books and learn how others have tackled challenges. So, you're ready when the day throws curveballs—and it will.
+**1\. Start your day with purpose.** First, wake up early. I know it sounds simple, but hear me out. You set the tone for the day when you get up before most people (think *before 5 a.m.*). You have time to read, reflect, and mentally prepare. Those quiet moments are gold. They’re when you fuel your mind with new ideas from the best books and learn how others have tackled challenges. So, you’re ready when the day throws curveballs—and it will.
 
 Why does this matter? Because when you’ve already prepared your mind, stress doesn’t shake you. You stay steady, confident, and proactive. Clients notice that. They trust leaders who are calm under pressure.
 
