@@ -24,7 +24,7 @@ There are two main areas of focus that helped me convert more appointments into 
 
 **Mastering the listing presentation.** Sellers want structure. They want to know what I do, how I do it, and how I’m going to help them. Think of it like this—any time I’ve hired someone or brought them onto my team, I’ve looked at a resume to understand their experience. Clients are no different.
 
-This is why I update my resume every year and include it in my listing presentation. I want to show people how I run my business. Whether it's a pamphlet, PowerPoint, or simply a structured conversation, I follow a clear, repeatable process. Sellers often tell me they’re shocked at how thorough I am compared to other agents who just show up with a few papers and start talking.
+This is why I update my resume every year and include it in my listing presentation. I want to show people how I run my business. Whether it’s a pamphlet, PowerPoint, or simply a structured conversation, I follow a clear, repeatable process. Sellers often tell me they’re shocked at how thorough I am compared to other agents who just show up with a few papers and start talking.
 
 {% include pullquote.html %}
 
