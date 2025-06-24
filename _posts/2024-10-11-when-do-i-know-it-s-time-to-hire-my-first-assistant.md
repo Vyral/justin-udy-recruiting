@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Do I Know It’s Time To Hire My First Assistant?
-date: 2024-10-11 05:00:00
+date: 2025-06-24 05:00:00
 tags:
 excerpt: >-
   When busywork starts dominating your business, ask yourself these three
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-1-1.jpg
+youtube_alternate_image: /uploads/2-4-3.jpg
 youtube_code: YgVn78PtDyc
 ---
 {% include youtube.html %}
