@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
-  /uploads/how-do-you-guide-sellers-to-price-their-home-right-in-wasatch-front.jpg
+  /uploads/how-do-you-guide-sellers-to-price-their-home-right-in-wasatch-front-2.jpg
 youtube_code: zQNFrCLp2yU
 ---
 {% include youtube.html %}
