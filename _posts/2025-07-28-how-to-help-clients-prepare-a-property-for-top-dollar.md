@@ -4,8 +4,8 @@ title: How To Help Clients Prepare a Property for Top Dollar
 date: 2025-07-28 05:00:00
 tags:
 excerpt: >-
-  Subheadline: Give them sound advice, including tips on improving curb appeal
-  and guiding them with a clear plan from start to finish.
+  Give them sound advice, including tips on improving curb appeal and guiding
+  them with a clear plan from start to finish.
 enclosure:
 pullquote: Preparation is the foundation of a faster sale and a higher price.
 enclosure_type: video/mp4
