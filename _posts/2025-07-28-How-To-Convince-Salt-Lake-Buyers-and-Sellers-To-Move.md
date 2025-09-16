@@ -18,7 +18,7 @@ youtube_code: fN8fUm8KipE
 
 {% include excerpt.html %}
 
-Are your buyers and sellers frozen in place? \*\* \*\* Right now, many people feel stuck. Prices aren’t changing, interest rates aren’t moving, and the market doesn’t look different enough to spark action. Buyers and sellers are waiting, hoping for a shift before they make a move. But waiting often costs more than acting.
+Are your buyers and sellers frozen in place? Right now, many people feel stuck. Prices aren’t changing, interest rates aren’t moving, and the market doesn’t look different enough to spark action. Buyers and sellers are waiting, hoping for a shift before they make a move. But waiting often costs more than acting.
 
 The real opportunity is in *helping clients see what’s available to them today,* and that starts with reframing how they view the current market and showing them the advantages they may be overlooking.
 
