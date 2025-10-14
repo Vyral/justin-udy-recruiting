@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/why-agents-who-embrace-failure-close-more-real-estate-deals-2.jpg
-youtube_code: qt9OHe4hakM
+youtube_code: hjpGlFjkLPA
 ---
 {% include youtube.html %}
 
