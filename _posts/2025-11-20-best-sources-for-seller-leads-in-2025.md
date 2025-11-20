@@ -65,6 +65,6 @@ Off-market does not mean mysterious. FSBOs, wholesalers, and your own network co
 
 If your Q4 plan doesn’t include these five strategies, you’re leaving momentum on the table. The fourth quarter is not a time to slow down; it’s your chance to build a foundation for next year while closing this one strong.
 
-If you have any questions, feel free to reach out. You can call me at \*\* \*\* [**(801) 285-0521**](tel:&#40;801&#41;%20285-0521) or email me at [**Justin@JustinUdy.com**](mailto:Justin@JustinUdy.com)**.** I’d be happy to go on a quick strategy call to discuss your Q4 goals.
+If you have any questions, feel free to reach out. You can call me at  [**(801) 285-0521**](tel:&#40;801&#41;%20285-0521) or email me at [**Justin@JustinUdy.com**](mailto:Justin@JustinUdy.com)**.** I’d be happy to go on a quick strategy call to discuss your Q4 goals.
 
 Let’s make this quarter your best one yet.
