@@ -26,7 +26,7 @@ I learned this firsthand. In my biggest year as a listing agent, I sold 97 homes
 
 Here are the top reasons deals get canceled and what you can do to avoid them.
 
-**1\. Home inspection problems.** Inspection issues are the top deal killer. Nationally, about one in four transactions falls apart during inspections, and in some markets, it's closer to 50%. Buyers have more inventory to pick from, so even small repair lists can push them away.
+**1\. Home inspection problems.** Inspection issues are the top deal killer. Nationally, about one in four transactions falls apart during inspections, and in some markets, it’s closer to 50%. Buyers have more inventory to pick from, so even small repair lists can push them away.
 
 Use a checklist. Walk the home before listing, handle obvious fixes, and have a handyman ready so your sellers aren’t scrambling. Many cancellations happen because people lack resources, not because repairs are complicated.
 
@@ -54,4 +54,4 @@ Counter those terms. Tighten timelines, increase earnest money, and shape the de
 
 Getting under contract is only half the job. Keeping the deal together is where skill shows up. Evaluate inspection risks, verify financing, price with accuracy, manage emotions, and clean up contingencies. These are the habits of top listing agents.
 
-When you take these steps, you reduce your risk of cancellations and set yourself up for a smooth, successful sale.<br><br>If you want to boost your contract-to-close rate and sharpen your listing skills, just reach out anytime. You can call or text me at ** ** [**(801) 285-0521**](tel:&#40;801&#41;%20285-0521){: target="_blank" rel="noopener"} or email me at [**Justin@JustinUdy.com**](Justin@JustinUdy.com){: target="_blank" rel="noopener"}. Focus on your mindset, improve your skill set, and stay disciplined. Let’s get your next contract to closing.
+When you take these steps, you reduce your risk of cancellations and set yourself up for a smooth, successful sale.<br><br>If you want to boost your contract-to-close rate and sharpen your listing skills, just reach out anytime. You can call or text me at \*\* \*\* [**(801) 285-0521**](tel:&#40;801&#41;%20285-0521){: target="_blank" rel="noopener"} or email me at [**Justin@JustinUdy.com**](Justin@JustinUdy.com){: target="_blank" rel="noopener"}. Focus on your mindset, improve your skill set, and stay disciplined. Let’s get your next contract to closing.
