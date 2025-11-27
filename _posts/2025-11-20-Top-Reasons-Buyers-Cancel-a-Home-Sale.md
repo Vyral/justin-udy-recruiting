@@ -28,7 +28,7 @@ Most cancellations come from predictable issues that show up after a home goes u
 
 Here are the top reasons transactions fall apart and how to prevent them from happening.
 
-**1\. Home inspection problems.** Inspection issues are the top deal killer. Nationally, about one in four transactions falls apart during inspections, and in some markets, it's closer to 50%. Buyers have more inventory to pick from, so even small repair lists can push them away.
+**1\. Home inspection problems.** Inspection issues are the top deal killer. Nationally, about one in four transactions falls apart during inspections, and in some markets, it’s closer to 50%. Buyers have more inventory to pick from, so even small repair lists can push them away.
 
 Use a checklist. Walk the home before listing, handle obvious fixes, and have a handyman ready so your sellers aren’t scrambling. Many cancellations happen because people lack resources, not because repairs are complicated.
 
