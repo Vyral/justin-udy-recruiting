@@ -7,7 +7,7 @@ excerpt: >-
   Be the agent who knows what’s happening in the market. Use local data to lead,
   guide, and win clients.
 enclosure:
-pullquote: ou don’t have to be the smartest agent, just the most informed.
+pullquote: You don’t have to be the smartest agent, just the most informed.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
