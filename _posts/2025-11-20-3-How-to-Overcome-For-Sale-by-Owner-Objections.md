@@ -17,10 +17,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/how-to-overcome-for-sale-by-owner-objections.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Selling a home on your own can seem like a simple way to save money and stay in control, which is why many homeowners choose the FSBO route. The challenge is that the biggest risks of FSBO rarely show up at the beginning. They appear later, when the listing sits longer than expected, when qualified buyers are not showing up, or when negotiations and paperwork become more complicated than anticipated.
 
 Understanding these pain points allows you to guide FSBO sellers with clarity and confidence while offering real value instead of pressure.
