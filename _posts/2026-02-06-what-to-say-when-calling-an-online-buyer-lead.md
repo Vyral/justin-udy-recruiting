@@ -28,24 +28,18 @@ Here are three things to keep in mind when calling an online buyer lead:
 
 **1\. Start the call with context, not credentials**. Many agents open the call by introducing themselves and their role. While that feels polite, it often creates distance. Buyers respond better when you acknowledge what they just did and why you are reaching out.
 
-Referencing the home they viewed or the information they requested immediately grounds the conversation. It reminds them why the call is relevant and makes it feel less like an interruption and more like a follow-up.
-
 {% include pullquote.html %}
 
-Almost every serious buyer works with an agent, and those agents search through the MLS, not public listing sites. FSBO properties are often overlooked because of uncertainty around disclosures, negotiation expectations, and liability concerns. When sellers understand that visibility is not the same as reaching the right buyers, the value of representation becomes clearer.
+Referencing the home they viewed or the information they requested immediately grounds the conversation. It reminds them why the call is relevant and makes it feel less like an interruption and more like a follow-up.
 
-**Friends and familiarity cannot replace professional objectivity.** Some FSBO sellers rely on a friend in real estate or believe their personal knowledge of the home is enough. What they do not realize is that objectivity is one of the most powerful tools in pricing and negotiation. A friend may have good intentions, but not the time or expertise to manage a full sale.
+**2\. Ask questions that invite conversation.** Once the call is open, it is tempting to jump straight into timelines, budgets, or financing. That approach often raises resistance. Early in the conversation, buyers are more comfortable answering simple, open-ended questions.
 
-At the same time, a homeowner’s emotional attachment can complicate tough conversations with buyers. Buyers also hesitate to give honest feedback directly to owners. By showing the importance of neutral, consistent guidance, you help sellers understand what professional representation actually provides.
+Asking what caught their attention, how long they have been looking, or what they are hoping to learn keeps the tone relaxed and conversational. These questions help you understand the buyer without making them feel evaluated.
 
-**Safety concerns and limited access reduce buyer activity.** Safety and privacy are major concerns for FSBO sellers who do not want strangers in their home. While understandable, this often limits showing availability, which discourages serious buyers. Buyers expect easy access and quick scheduling, and if they cannot get in, they move on to the next property.
+**3\. Focus on earning the next conversation.** The first call is not about closing a deal. It is about creating enough value and trust to continue the relationship. Offering to send relevant listings, explain local pricing trends, or share what buyers are experiencing right now positions you as a guide, not a salesperson. When buyers feel supported rather than pressured, they are far more likely to stay engaged.
 
-Professional agents use secure lockboxes, verified showing platforms, and established protocols to keep the home safe while making showings convenient. When sellers see that safety can coexist with accessibility, they become more comfortable opening the home to qualified buyers.
+If you want your online buyer lead calls to feel more natural and productive, refining this first conversation makes a noticeable difference.
 
-**Commission fees fund the exposure that increases net profit.** Many FSBO sellers believe your commission is too high because they do not yet understand what it covers. They see the cost but not the strategic marketing, professional photography, targeted advertising, buyer outreach, MLS positioning, and negotiation experience that directly influence the final sale price.
+If you would like to talk through what is working in our local market or get a second opinion on your buyer lead approach, feel free to call or reach out.
 
-Once sellers understand that commission funds the tools that create stronger demand and stronger offers, the fee begins to look like an investment rather than a loss. Helping them see the connection between commission and net profit is essential.
-
-The best way to support an FSBO seller is to offer clear information without expecting immediate commitment. A simple review of market data, pricing strategy, or buyer behavior can help them see the challenges they are facing. When sellers have the facts, they can choose the approach that best protects their time, money, and peace of mind.
-
-Selling on your own may seem like a smart way to save money, but limited exposure, weaker negotiating leverage, and compliance risks often reduce the final profit more than most FSBO sellers expect. If you are deciding whether to continue as an FSBO or explore a professional strategy that protects your time and maximizes your net, feel free to call, text, or email me. I would be happy to walk you through your options and help you choose the approach that aligns best with your goals.
+Conversations like these are where strong client relationships begin, and getting them right early makes everything else in the process smoother.
