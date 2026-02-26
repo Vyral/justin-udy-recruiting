@@ -13,7 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: >-
+  /uploads/the-top-5-real-estate-client-objections-and-how-to-overcome-them-2.jpg
 youtube_code: sCpbcaIWhD8
 ---
 {% include youtube.html %}
