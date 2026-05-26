@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/why-experienced-agents-join-teams-and-what-to-look-for-2.jpg
-youtube_code: PmChRJQXVa4
+youtube_code: UD4PZ8q7xaU
 ---
 {% include youtube.html %}
 
