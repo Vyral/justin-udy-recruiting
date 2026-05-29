@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-ways-to-get-more-listings-through-prospecting-2.jpg
-youtube_code: Bma9UPUX7g0
+youtube_code: IV06bgHfy7o
 ---
 {% include youtube.html %}
 
