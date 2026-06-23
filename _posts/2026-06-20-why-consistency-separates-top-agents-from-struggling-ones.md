@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/why-consistency-separates-top-agents-from-struggling-ones-2-1.jpg
-youtube_code: rTHf0IK6H-U
+youtube_code: TNcYj0YSH8Y
 ---
 {% include youtube.html %}
 
