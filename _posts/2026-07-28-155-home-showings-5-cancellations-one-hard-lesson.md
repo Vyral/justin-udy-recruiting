@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 155 showings, 5 accepted offers, 0 closings, Here's What I Missed.
+title: 155 Showings, 5 Accepted Offers, 0 Closings, Here’s What I Missed.
 date: 2026-07-28 05:00:00
 tags:
 excerpt: >-
