@@ -11,7 +11,7 @@ pullquote: Experience is valuable, but borrowed experience is priceless.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/155-home-showings-5-cancellations-one-hard-lesson-2.jpg
+youtube_alternate_image: /uploads/155-home-showings-5-cancellations-one-hard-lesson-2-1.jpg
 youtube_code: JNuL1seH7PI
 ---
 {% include youtube.html %}
