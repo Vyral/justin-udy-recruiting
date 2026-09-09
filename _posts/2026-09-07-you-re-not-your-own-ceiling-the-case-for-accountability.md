@@ -11,7 +11,7 @@ pullquote: You're not your own ceiling, but staying on an island will convince
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/you-re-not-your-own-ceiling-the-case-for-accountability-2.jpg
+youtube_alternate_image: /uploads/you-re-not-your-own-ceiling-the-case-for-accountability-2-1.jpg
 youtube_code: licdwGTurKE
 ---
 {% include youtube.html %}
