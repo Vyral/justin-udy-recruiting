@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-ways-agents-can-grow-in-a-changing-market-2.jpg
-youtube_code: WD26rZxvTo
+youtube_code: VWD26rZxvTo
 ---
 {% include youtube.html %}
 
