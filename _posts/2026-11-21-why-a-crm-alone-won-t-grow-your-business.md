@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/why-a-crm-alone-won-t-grow-your-business.png
 youtube_code:
 ---
-{% include youtube.html %}
+&nbsp;
 
 {% include excerpt.html %}
 
